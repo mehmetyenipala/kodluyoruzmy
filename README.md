@@ -6,9 +6,9 @@
 
  * list item 4
 
-[Lord of the rings sauron](https://ortadunya.fandom.com/wiki/Sauron?file=Sauron.jpg)
+[Lord of the rings sauron](https://www.shutterstock.com/tr/image-vector/sauron-helmet-lord-rings-1999124831)
 --------
 
-![sauron görsel](https://ortadunya.fandom.com/wiki/Sauron?file=Sauron.jpg)
+![sauron görsel](https://www.shutterstock.com/tr/image-vector/sauron-helmet-lord-rings-1999124831)
 --------
 }
