@@ -11,4 +11,3 @@
 
 ![sauron görsel](https://www.shutterstock.com/tr/image-vector/sauron-helmet-lord-rings-1999124831)
 --------
-}
